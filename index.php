@@ -10,6 +10,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" href="images/logo.ico" type="image/x-icon">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+    <link rel="stylesheet" type="text/css" href="css/fontes.css">
+    <link rel="stylesheet" type="text/css" href="css/apontador.css">
     <link rel="stylesheet" type="text/css" href="css/slick.css">
     <link rel="stylesheet" type="text/css" href="css/slick-theme.css">
     <script src="https://cdn.tailwindcss.com"></script>    
@@ -20,7 +22,7 @@
         <img class="m-auto pt-20" src="images/logo.png" alt="Logo" />
         <div>
             <div>
-                <p class="py-24 text-white text-7xl text-center"><b>Colégio Maria Imaculada</b></p>
+                <p id="nome-colegio" class="py-24 text-white text-7xl text-center"><b>Colégio Maria Imaculada</b></p>
             </div>
             <div>
                 <a href="https://www.cmisp.com.br">
